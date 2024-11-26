@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+ <title> Media aritimetica </tile>
+ primeira nota <imput id= "nota1" type= "number"> <br/>
+ segunda nota <imput id= "nota2" type= "number"> <br/>
+ <button onclick= "media ()> calcular media </button>
+
+ <scrip type= "text/javascript">
+
+ function media () {
+ var nota 1= parseflot (document.getelement by id ("nota1").value);
+ var nota 2= parseflot (document.getelememt by id ("nota2").value);
